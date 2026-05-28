@@ -11,6 +11,20 @@ resilience and a network security check.
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="mobile/screenshots/dashboard.png" width="230" alt="Driver dashboard (synced)">
+  &nbsp;&nbsp;
+  <img src="mobile/screenshots/offline_mode.png" width="230" alt="Offline mode with queued deliveries">
+  &nbsp;&nbsp;
+  <img src="mobile/screenshots/online_sync.png" width="230" alt="Successful sync to backend">
+</p>
+
+<p align="center"><em>Driver dashboard &nbsp;·&nbsp; Offline-first queue (data kept locally) &nbsp;·&nbsp; Successful sync to SAP</em></p>
+
+---
+
 ## Architecture
 
 ```
